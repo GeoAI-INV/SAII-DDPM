@@ -43,11 +43,12 @@ Also, we use https://pylops.readthedocs.io/en/stable/ for some model-driven inve
 ## Citation
 If you find our work interesting, please consider citing
 ```
-@article{
-doi:10.1190/geo2024-0416.1,
-title = {Unsupervised Seismic Acoustic Impedance Inversion Based on Generative Diffusion Model},
-author = {Hongling Chen  and  Jie Chen  and  Mauricio Sacchi  and  Jinghuai Gao  and  Ping Yang },
-journal = {GEOPHYSICS},
-year = {2025},
-doi = {10.1190/geo2024-0416.1},
+@article{chen2025unsupervised,
+  title={Unsupervised Seismic Acoustic Impedance Inversion Based on Generative Diffusion Model},
+  author={Chen, Hongling and Chen, Jie and Sacchi, Mauricio and Gao, Jinghuai and Yang, Ping},
+  journal={Geophysics},
+  volume={90},
+  number={4},
+  pages={1--98},
+}
 ```
