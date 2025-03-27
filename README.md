@@ -20,7 +20,7 @@ From the [link](https://drive.google.com/file/d/1TW0MGoc-7fYFpMftK7Qn1h6xMM4p1MO
 
 
 ## Sampling
-just a demo, maybe not the best results
+just a demo, maybe not the best training parameters.
 
 ```
 python scripts/image_sample.py 
