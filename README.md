@@ -1,4 +1,4 @@
-# seismic inversion by using diffusion model
+# Unsupervised Seismic Acoustic Impedance Inversion Based on Generative Diffusion Model
 
 This is the codes for [Unsupervised Seismic Acoustic Impedance Inversion Based on Generative Diffusion Model](https://library.seg.org/doi/abs/10.1190/geo2024-0416.1).
 
