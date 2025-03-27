@@ -16,7 +16,7 @@ pip install -e .
 ```
 
 2. Download Pre-trained Checkpoints:
-From the [link](https://drive.google.com/file/d/1TW0MGoc-7fYFpMftK7Qn1h6xMM4p1MO0/view?usp=drive_link), download the checkpoint and unzip it to ./logger/weights
+From the [link](https://drive.google.com/file/d/1TW0MGoc-7fYFpMftK7Qn1h6xMM4p1MO0/view?usp=sharing), download the checkpoint and unzip it to ./logger/
 
 
 ## Sampling
